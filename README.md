@@ -1,6 +1,5 @@
-# Dungeons and Holonai 2
+# Diario del aventurero
 
-Esta es la guía para la SEGUNDA campaña de DnD de Hollow knight que estoy haciendo.
-Para iniciar, usa el menú y vé al indíce, donde verás todas las partes que estuve redactando.
+Esta es la página del diario del aventurero que he estado trabajando. Usa el menú de la izquierda para iniciar en el índice.
 
-Anda, ve a leer 🚀🚀🚀
+CORRE, VE A LEER.
