@@ -1,0 +1,2 @@
+Aquí se guardarán los resúmenes de las sesiones que se tengan según avancen las partidas.
+
